@@ -1,0 +1,5 @@
+a=900000000,b=915000000,d=2G 900 Monaco Telecom
+a=1805000000,b=1880000000,d=4G 1800 Monaco Telecom
+a=3500000000,b=3800000000,d=5G 3500 Monaco Telecom
+
+MCO

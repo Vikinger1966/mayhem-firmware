@@ -1,0 +1,4 @@
+a=880000000,b=915000000,d=2G 900 Tele Greenland
+a=1805000000,b=1880000000,d=4G 1800 Tele Greenland
+
+GRL
